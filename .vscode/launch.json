@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MiniStatement",
+            "request": "launch",
+            "mainClass": "MiniStatement",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "BalanceEnquiry",
+            "request": "launch",
+            "mainClass": "BalanceEnquiry",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "Pinchange",
+            "request": "launch",
+            "mainClass": "Pinchange",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "FastCash",
+            "request": "launch",
+            "mainClass": "FastCash",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "Withdrawl",
+            "request": "launch",
+            "mainClass": "Withdrawl",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "Deposite",
+            "request": "launch",
+            "mainClass": "Deposite",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "Transaction",
+            "request": "launch",
+            "mainClass": "Transaction",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "SignupThree",
+            "request": "launch",
+            "mainClass": "SignupThree",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "SignupTwo",
+            "request": "launch",
+            "mainClass": "SignupTwo",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "Bank Management System_eb980ba3"
+        },
+        {
+            "type": "java",
+            "name": "SignupOne",
+            "request": "launch",
+            "mainClass": "SignupOne",
+            "projectName": "Bank Management System_eb980ba3"
+        }
+    ]
+}
